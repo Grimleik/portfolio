@@ -21,7 +21,7 @@ export default function Contact() {
                     <a href="mailto:patrik.fjellstedt@gmail.com">Email</a>
                 </li>
                 <li id="github">
-                    <a href="github.com/Grimleik">Github</a>
+                    <a href="https://github.com/Grimleik">Github</a>
                 </li>
             </ul>
             <button className="button-cv" onClick={handleDownload}>Download CV</button>
